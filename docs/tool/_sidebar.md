@@ -12,7 +12,7 @@
 
 * [python(升级)](/tool/python/python)
 
-* [JDK](/tool/jdk/jdk_create)
+* [JDK](/tool/jdk/jdk_create_vm)
 
 * [IDEA](/tool/IDEA/IDEA)
 

@@ -1,4 +1,4 @@
-* [首页](/tool/jdk/jdk_create)
+* [首页](/tool/jdk/jdk_create_vm)
 
 * [Windows](/tool/JDK/JDK-win)
 
